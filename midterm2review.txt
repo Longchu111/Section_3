@@ -30,8 +30,11 @@ ch. 12
 15.c
 16.a
 17.d
+<<<<<<< HEAD
 
 midterm done?!
+=======
+>>>>>>> parent of b441ce6... added midterm
 18.b
 19.b
 
