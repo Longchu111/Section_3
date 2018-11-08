@@ -13,7 +13,11 @@ class Node {
 
 	// default Constructor
 	public Node() {
+<<<<<<< HEAD
 		link = firstxd;
+=======
+		link = first;
+>>>>>>> parent of 5f844e4... Revert "Update InsertionSortByLinks.java"
 		data = "";
 	}
 
