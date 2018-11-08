@@ -1,0 +1,76 @@
+ch. 11
+1.b
+2.b
+3.c
+4.a --> d
+5.a --> b
+6.a
+7.a --> b
+8.d
+9.a
+10.c
+11.a
+12.a --> b   
+
+ch. 12
+1.e
+2.d
+3.e
+4.a suppose to be translation of requirements model into design representation
+5.e
+6.d	Structure,dynamic,functional,process,framework
+7.b
+8.b
+9.a
+10.b
+11.d
+12.b
+13.a
+14.b user iterface,business domain, process, peristent, system
+15.c
+16.a
+17.d
+18.b
+19.b
+
+chapter 13
+1. b it analyze effective of design, reduce risk, and consider architectural alternative
+2. a
+3. b
+4. a
+5. a
+6. e set of component,connectors, constraints, and semantic
+7. b
+8. b, the thing just need to handle multiple in parellelism
+9. e control and data
+10. b --> a
+11. b
+12. e superordinate, subbordinate,peer-level, actors
+13. a 
+14. c memory management, communication,database, task
+15. e
+16. e sharing, flow, constrained
+17. a
+18. a
+19. b
+20. b
+
+chapter 14
+1. a
+2. d
+3. d control,infrastructure, and problem domain
+4. b
+5. d the four principles(open-close,liskov sub,dependency inversion, iterface segregation), release reuse, common closure, common reuse
+6. 
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
