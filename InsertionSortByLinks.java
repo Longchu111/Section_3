@@ -13,7 +13,7 @@ class Node {
 
 	// default Constructor
 	public Node() {
-		link = first;
+		link = null;
 		data = "";
 	}
 
